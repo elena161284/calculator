@@ -1,6 +1,5 @@
 package com.example.calkulator.calculator;
 
-
 public class ZnageniaServiceOSN {
 
     public double revenueR(Znagenia znagenia) {

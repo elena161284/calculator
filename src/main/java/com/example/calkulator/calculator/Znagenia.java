@@ -1,7 +1,5 @@
 package com.example.calkulator.calculator;
 
-import java.util.Scanner;
-
 public class Znagenia {
      double zakupka;
      double prodaja;
